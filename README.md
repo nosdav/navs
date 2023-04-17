@@ -41,8 +41,8 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 
 ## List
 
-- [NAV-01: HTTP Verbs](01.md)
-- [NAV-02: Identity](02.md)
+- [NAV-01: Identity](01.md)
+- [NAV-02: HTTP Verbs](02.md)
 - [NAV-03: Authentication](03.md)
 - [NAV-04: Access Control](04.md)
 - [NAV-05: CORS](05.md)
