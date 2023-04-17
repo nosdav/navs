@@ -44,6 +44,7 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 - [NAV-01: HTTP Verbs](01.md)
 - [NAV-02: Identity](02.md)
 - [NAV-03: Authentication](03.md)
+- [NAV-04: Access Control](04.md)
 
 ## Criteria for acceptance of NAVs
 
