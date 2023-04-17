@@ -48,6 +48,7 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 - [NAV-05: CORS](05.md)
 - [NAV-06: Content Types](06.md)
 - [NAV-07: Discovery](07.md)
+- [NAV-08: Notifications](08.md)
 
 ## Criteria for acceptance of NAVs
 
