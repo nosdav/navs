@@ -1,6 +1,6 @@
 {
   "name": "nosdav-navs",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "nosdav navs",
   "main": "index.js",
   "scripts": {
