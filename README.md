@@ -34,9 +34,14 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 
 ---
 
+## NosDAV Core Spec
+
+- [NosDAV Core Spec](https://nosdav.com/spec/)
+
+
 ## List
 
-- [Nostr Spec](https://nosdav.com/spec/)
+- [NIP-01: HTTP Verbs](01.md)
 
 ## Criteria for acceptance of NAVs
 
