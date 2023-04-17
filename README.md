@@ -47,6 +47,7 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 - [NAV-04: Access Control](04.md)
 - [NAV-05: CORS](05.md)
 - [NAV-06: Content Types](06.md)
+- [NAV-07: Discovery](07.md)
 
 ## Criteria for acceptance of NAVs
 
