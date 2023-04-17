@@ -49,6 +49,7 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 - [NAV-06: Content Types](06.md)
 - [NAV-07: Discovery](07.md)
 - [NAV-08: Notifications](08.md)
+- [NAV-11: Linked Data](11.md)
 
 ## Criteria for acceptance of NAVs
 
