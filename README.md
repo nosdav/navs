@@ -41,7 +41,8 @@ They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-
 
 ## List
 
-- [NIP-01: HTTP Verbs](01.md)
+- [NAV-01: HTTP Verbs](01.md)
+- [NAV-02: Authentication](02.md)
 
 ## Criteria for acceptance of NAVs
 
