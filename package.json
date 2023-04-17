@@ -1,0 +1,27 @@
+{
+  "name": "nosdav-navs",
+  "version": "0.0.1",
+  "description": "nosdav navs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosdav/navs.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostdav",
+    "navs"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosdav/navs/issues"
+  },
+  "homepage": "https://github.com/nosdav/navs#readme",
+  "dependencies": {
+  }
+}
