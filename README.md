@@ -23,7 +23,7 @@
 
 ## NAVs
 
-NAVs stand for **Nosdav Advancement Possibilities**.
+NAVs stand for **Nosdav Advancement Visions**.
 They exist to document what may be implemented by [NosDAV](https://nosdav.com/)-compatible _server_ and _client_ software.
 
 ---
